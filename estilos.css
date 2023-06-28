@@ -1,0 +1,40 @@
+body{
+    background-color: #ffe77d;
+    color: #087cb9;
+    font-family: 'Righteous', cursive;
+}
+h3{
+    color: #1aba76;
+    font-size: 27px;
+}
+h1, p{
+    color: #191934;
+    font-size: 60px;
+}
+p{
+    font-size: 20px;
+}
+ol, ul{
+    font-family: 'Ysabeau', sans-serif;
+    font-size: 20px;
+}
+img{
+    border-style: outset;
+    margin-left: 25px;
+    margin-block-end: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.img1{
+    width:500px;
+    height: fit-content;
+}
+.img2{
+    width: fit-content;
+    height: 400px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+a{
+    color: #008f92;
+}
